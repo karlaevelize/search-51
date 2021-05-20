@@ -55,7 +55,7 @@ export default function Search(){
       </form>
 
       {/* showing the amount of search results with 3 different cases:
-      no results, 1 results, more than 1 */}
+      no results, 1 result, more than 1 */}
       <p>{toMap.length < 1 
             ? "Sorry, nothing matches your search" 
             : toMap.length === 1
