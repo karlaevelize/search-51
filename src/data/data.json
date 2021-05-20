@@ -1,0 +1,118 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "firstName": "Hermione",
+      "lastName": "Granger",
+      "img": "https://myhero.com/images/guest/g282317/hero105677/image2.jpg",
+      "house": "Gryffindor",
+      "gender": "f",
+      "playsQuidditch": false,
+      "age": 16
+    },
+    {
+      "id": 2,
+      "firstName": "Harry",
+      "lastName": "Potter",
+      "img": "https://i.redd.it/slg7d8g8znv51.jpg",
+      "house": "Gryffindor",
+      "gender": "m",
+      "playsQuidditch": true,
+      "age": 16
+    },
+    {
+      "id": 3,
+      "firstName": "Ron",
+      "lastName": "Weasley",
+      "img": "https://cdn.fame10.com/eyJidWNrZXQiOiJwdWItc3RvcmFnZSIsImtleSI6ImZhbWUxMC93cC1jb250ZW50L3VwbG9hZHMvMjAyMC8wNy9Sb24tV2Vhc2xleS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjE1MDAsImhlaWdodCI6MTk2MiwiZml0IjoiY292ZXIiLCJiYWNrZ3JvdW5kIjp7InIiOjAsImciOjAsImIiOjAsImFscGhhIjoxfSwicG9zaXRpb24iOiJ0b3AifX19",
+      "house": "Gryffindor",
+      "gender": "m",
+      "playsQuidditch": true,
+      "age": 16
+    },
+    {
+      "id": 4,
+      "firstName": "Draco",
+      "lastName": "Malfoy",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/16/Draco_Mal.JPG",
+      "house": "Slytherin",
+      "gender": "m",
+      "playsQuidditch": true,
+      "age": 16
+      },
+    {
+      "id": 5,
+      "firstName": "Luna",
+      "lastName": "Lovegood",
+      "img": "https://static.wikia.nocookie.net/the-adventure-teams-list/images/3/33/LunaLovegood_WB_F6_LunaLovegoodPromoShot_Promo_080615_Port.jpg/revision/latest?cb=20190201191416",
+      "house": "Ravenclaw",
+      "gender": "f",
+      "playsQuidditch": false,
+      "age": 16
+    },
+    {
+      "id": 6,
+      "firstName": "Ginny",
+      "lastName": "Weasley",
+      "img": "https://i.pinimg.com/originals/e4/12/8b/e4128bab5b79a740cb19f00a04983f84.jpg",
+      "house": "Gryffindor",
+      "gender": "f",
+      "playsQuidditch": true,
+      "age": 15
+    },
+    {
+      "id": 7,
+      "firstName": "Cedric",
+      "lastName": "Diggory",
+      "img": "https://static.wikia.nocookie.net/p__/images/c/ca/Cedric_Diffory_%22such_a_handsome_boy%22.jpeg/revision/latest/top-crop/width/360/height/360?cb=20160306120749&path-prefix=protagonist",
+      "house": "Hufflepuff",
+      "gender": "m",
+      "playsQuidditch": true,
+      "age": 18
+    },
+    {
+      "id": 8,
+      "firstName": "Ana",
+      "lastName": "Abbot",
+      "img": "https://i.pinimg.com/originals/ed/c8/88/edc88840414cbbf9e36c78458ff9d032.jpg",
+      "house": "Hufflepuff",
+      "gender": "f",
+      "playsQuidditch": false,
+      "age": 16
+    },
+    {
+      "id": 9,
+      "firstName": "Pansy",
+      "lastName": "Parkinson",
+      "img": "https://i.pinimg.com/474x/f9/72/81/f972816c5d15cc1b1cdc77ba5798e325.jpg",
+      "house": "Slytherin",
+      "gender": "f",
+      "playsQuidditch": false,
+      "age": 16
+    },
+    {
+      "id": 10,
+      "firstName": "Cho",
+      "lastName": "Chang",
+      "img": "https://static.wikia.nocookie.net/harrypotter/images/e/e1/Cho.jpg/revision/latest/scale-to-width-down/223?cb=20090725204212",
+      "house": "Ravenclaw",
+      "gender": "f",
+      "playsQuidditch": true,
+      "age": 16
+    }
+  ],
+  "professors": [
+    {
+      "name": "Minerva",
+      "subject": "Transfiguration"
+    },
+    {
+      "name": "Snape",
+      "subject": "Potions"
+    },
+    {
+      "name": "Flitwick",
+      "subject": "Spells"
+    }
+  ]
+  }

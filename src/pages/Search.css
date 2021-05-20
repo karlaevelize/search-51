@@ -1,0 +1,6 @@
+.map-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 2px 16px;
+}
